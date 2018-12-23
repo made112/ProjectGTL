@@ -15,7 +15,7 @@ public class GetHup {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("welcom7");
+        System.out.println("welcom88");
         // TODO code application logic here
     }
     
